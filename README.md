@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Jay3cx — Backend Developer & SZTU Student" width="100%" />
+<img src="./assets/header.svg" alt="Hey! I'm jay3cx — Backend Developer" width="100%" />
 
 <br/>
 
