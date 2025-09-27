@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jay3cx — Backend Developer">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00ADD8"/>
+      <stop offset="1" stop-color="#0077B6"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="260" rx="24" fill="url(#grad)"/>
+  <rect x="0" y="0" width="1200" height="130" rx="24" fill="url(#shine)"/>
+
+  <g font-family="-apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica Neue, Arial, sans-serif">
+    <text x="50%" y="120" text-anchor="middle" font-size="64" font-weight="700" fill="#FFFFFF" letter-spacing="0.5">
+      Jay3cx
+    </text>
+    <text x="50%" y="168" text-anchor="middle" font-size="26" font-weight="600" fill="#E6F7FF" opacity="0.95">
+      Backend Developer
+    </text>
+  </g>
+
+  
+</svg>
+

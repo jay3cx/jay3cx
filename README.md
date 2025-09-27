@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hey! I am Jay3cx
-**Backend Developer & SZTU Student**
+<img src="./assets/header.svg" alt="Jay3cx — Backend Developer & SZTU Student" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=jay3cx&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+<br/>
 
 </div>
 
@@ -33,7 +32,7 @@
 
 ## 📫 Contact with me
 
-**Email**: 137191587@qq.com  
+📧 Email: [137191587@qq.com](mailto:137191587@qq.com)
 ---
 
 ## ⭐ My Github Status
