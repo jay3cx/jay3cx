@@ -33,20 +33,10 @@
 
 ## 📫 Contact with me
 
-**QQ**: 123456789  
-**Email**: jay3cx@example.com  
-**Blog**: [jay3cx.github.io](https://jay3cx.github.io)
-
+**Email**: 137191587@qq.com  
 ---
 
 ## ⭐ My Github Status
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jay3cx&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay3cx&layout=compact&theme=default&hide_border=true" />
-
-</div>
 
 <div align="center">
 
