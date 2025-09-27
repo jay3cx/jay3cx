@@ -54,18 +54,7 @@ jay := Developer{
 
 <div align="center">
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00D4FF?style=plastic&logo=milvus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
-![KubeBlocks](https://img.shields.io/badge/KubeBlocks-326CE5?style=plastic&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
+<img src="https://skills.syvixor.com/api/icons?i=go,python,mysql,redis,docker,kubernetes,git,linux,vscode,aws" alt="Tech Stack" />
 
 </div>
 
