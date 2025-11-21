@@ -39,7 +39,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay3cx&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay3cx&show_icons=true&hide_border=true&hide_rank=true)
 
 </div>
 
