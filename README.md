@@ -39,7 +39,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay3cx&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay3cx&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay3cx&layout=compact&theme=default&hide_border=true)
 
 </div>
 
