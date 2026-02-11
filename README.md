@@ -55,7 +55,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay3cx&theme=github_dark" alt="GitHub Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay3cx&amp;theme=default" alt="GitHub Profile Details" width="100%" />
 </div>
 
 <br/>

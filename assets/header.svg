@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jay3cx — Go Agent Developer">
   <defs>
-    <!-- 深色背景渐变 -->
+    <!-- 浅色背景渐变 -->
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0d1117"/>
-      <stop offset="1" stop-color="#161b22"/>
+      <stop stop-color="#f6f8fa"/>
+      <stop offset="1" stop-color="#eef1f5"/>
     </linearGradient>
     <!-- 底部装饰线渐变 -->
     <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0d1117" stop-opacity="0"/>
-      <stop offset="0.2" stop-color="#58a6ff"/>
-      <stop offset="0.5" stop-color="#79c0ff"/>
-      <stop offset="0.8" stop-color="#58a6ff"/>
-      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+      <stop stop-color="#f6f8fa" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#0969da"/>
+      <stop offset="0.5" stop-color="#218bff"/>
+      <stop offset="0.8" stop-color="#0969da"/>
+      <stop offset="1" stop-color="#f6f8fa" stop-opacity="0"/>
     </linearGradient>
     <!-- 左侧竖线装饰渐变 -->
     <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
-      <stop stop-color="#58a6ff" stop-opacity="0"/>
-      <stop offset="0.3" stop-color="#58a6ff"/>
-      <stop offset="0.7" stop-color="#79c0ff"/>
-      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop stop-color="#0969da" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#0969da"/>
+      <stop offset="0.7" stop-color="#218bff"/>
+      <stop offset="1" stop-color="#0969da" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
@@ -30,12 +30,12 @@
   <rect x="340" y="60" width="3" height="120" rx="1.5" fill="url(#bar)" opacity="0.8"/>
 
   <!-- 主标题 -->
-  <text x="360" y="118" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="52" font-weight="700" fill="#e6edf3" letter-spacing="1">
+  <text x="360" y="118" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="52" font-weight="700" fill="#1f2328" letter-spacing="1">
     jay3cx
   </text>
 
   <!-- 副标题 -->
-  <text x="360" y="155" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#8b949e" letter-spacing="2">
+  <text x="360" y="155" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#656d76" letter-spacing="2">
     Go Agent Developer
   </text>
 
