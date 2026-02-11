@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg?v=2" alt="Jay3cx — Backend Developer & SZTU Student" width="100%" />
+<img src="./assets/header.svg?v=3" alt="Jay3cx — Go Agent Developer" width="100%" />
 
 <br/>
 
@@ -18,10 +18,10 @@
   &nbsp;<b>SZTU Student</b> at Shenzhen Technology University
   <br/>
   <img src="https://api.iconify.design/feather:terminal.svg?color=%23333333" width="16" height="16" valign="middle" />
-  &nbsp;<b>Backend Developer</b> passionate about <b>Go</b> & <b>Cloud-Native</b>
+  &nbsp;<b>Go Agent Developer</b> building intelligent agents with <b>Go</b>
   <br/>
   <img src="https://api.iconify.design/feather:zap.svg?color=%23333333" width="16" height="16" valign="middle" />
-  &nbsp;<b>Tech Enthusiast</b> exploring <b>Microservices</b> & <b>Containerization</b>
+  &nbsp;<b>Tech Enthusiast</b> exploring <b>LLM Agents</b> &amp; <b>Cloud-Native</b>
 </p>
 
 <br/>
@@ -57,7 +57,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jay3cx&show_icons=true&hide_border=true&hide_rank=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jay3cx&theme=github_dark" alt="GitHub Profile Details" width="100%" />
 </div>
 
 <br/>
