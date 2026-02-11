@@ -5,12 +5,12 @@
   <rect width="1200" height="240" fill="#ffffff"/>
 
   <!-- 主标题 -->
-  <text x="360" y="118" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="52" font-weight="700" fill="#1f2328" letter-spacing="1">
+  <text x="50%" y="118" text-anchor="middle" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="52" font-weight="700" fill="#1f2328" letter-spacing="1">
     jay3cx
   </text>
 
   <!-- 副标题 -->
-  <text x="360" y="155" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#656d76" letter-spacing="2">
+  <text x="50%" y="155" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#656d76" letter-spacing="2">
     Go Agent Developer
   </text>
 
