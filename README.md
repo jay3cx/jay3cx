@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="./assets/header.svg?v=20260211" alt="Jay3cx — Go Agent Developer" width="100%" />
-
 <br/>
 
 </div>
