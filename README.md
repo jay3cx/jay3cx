@@ -44,13 +44,9 @@
     &nbsp;<b>137191587@qq.com</b>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jay3cx&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
 <br/>
 
 <div align="center">
   <b>Thanks for visiting my profile!</b>
 </div>
+
