@@ -4,7 +4,8 @@
     <strong>I'm currently focused on Agentic Infra.</strong>
   </p>
   <p>
-    <code>🔭 LLM Agents · Cloud-Native</code>
+    <img src="https://api.iconify.design/feather:cloud.svg?color=%230078D7" width="16" height="16" valign="middle" />
+    <code>LLM Agents · Cloud-Native</code>
   </p>
 </div>
 
