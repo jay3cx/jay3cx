@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+jay3cx.+Go+Agent+Developer" alt="Hi, I'm jay3cx. Go Agent Developer" />
   <p>
-    <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="36" height="36" alt="" />
     <strong>I'm currently focused on Agentic Infra.</strong>
   </p>
   <p>
