@@ -39,40 +39,6 @@
 
 <br/>
 
-<h3 align="center">
-  <img src="https://api.iconify.design/feather:git-pull-request.svg?color=%230078D7" width="20" height="20" valign="middle" />
-  &nbsp;TOP PROJECTS I CONTRIBUTED
-</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/Tencent/WeKnora">
-        <img src="https://gh-card.dev/repos/Tencent/WeKnora.svg" alt="Tencent/WeKnora" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/TencentCloud/CubeSandbox">
-        <img src="https://gh-card.dev/repos/TencentCloud/CubeSandbox.svg" alt="TencentCloud/CubeSandbox" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/pydantic/monty">
-        <img src="https://gh-card.dev/repos/pydantic/monty.svg" alt="pydantic/monty" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/TencentBlueKing/blueking-dbm">
-        <img src="https://gh-card.dev/repos/TencentBlueKing/blueking-dbm.svg" alt="TencentBlueKing/blueking-dbm" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <div align="center">
   <b>Thanks for visiting my profile!</b>
 </div>
