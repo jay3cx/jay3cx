@@ -44,13 +44,22 @@
   &nbsp;TOP PROJECTS I CONTRIBUTED
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Tencent/WeKnora"><code>Tencent/WeKnora</code></a>
-  <a href="https://github.com/TencentCloud/CubeSandbox"><code>TencentCloud/CubeSandbox</code></a>
-  <br/>
-  <a href="https://github.com/pydantic/monty"><code>pydantic/monty</code></a>
-  <a href="https://github.com/TencentBlueKing/blueking-dbm"><code>TencentBlueKing/blueking-dbm</code></a>
-</p>
+<div align="center">
+  <a href="https://github.com/Tencent/WeKnora">
+    <img src="https://gh-card.dev/repos/Tencent/WeKnora.svg" alt="Tencent/WeKnora" />
+  </a>
+  <a href="https://github.com/TencentCloud/CubeSandbox">
+    <img src="https://gh-card.dev/repos/TencentCloud/CubeSandbox.svg" alt="TencentCloud/CubeSandbox" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/pydantic/monty">
+    <img src="https://gh-card.dev/repos/pydantic/monty.svg" alt="pydantic/monty" />
+  </a>
+  <a href="https://github.com/TencentBlueKing/blueking-dbm">
+    <img src="https://gh-card.dev/repos/TencentBlueKing/blueking-dbm.svg" alt="TencentBlueKing/blueking-dbm" />
+  </a>
+</div>
 
 <br/>
 
