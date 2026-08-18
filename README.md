@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+jay3cx.+Agent+Developer" alt="Hi, I'm jay3cx. Agent Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=1F2328&center=true&pause=100000&lines=Hi,+I'm+jay3cx.+Agent+Developer" alt="Hi, I'm jay3cx. Agent Developer" />
   <p>
     <strong>I'm currently focused on LLM Agent and Agent Infra.</strong>
   </p>
