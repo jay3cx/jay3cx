@@ -5,7 +5,7 @@
   </p>
   <p>
     <img src="https://api.iconify.design/lucide:sparkles.svg?color=%230078D7" width="16" height="16" valign="middle" />
-    <code>LLM Agents · Cloud-Native</code>
+    <code>LLM Agent · Agent Infra</code>
   </p>
 </div>
 
@@ -19,7 +19,7 @@
   &nbsp;<b>Go Agent Developer</b> building intelligent agents with <b>Go</b>
   <br/>
   <img src="https://api.iconify.design/feather:zap.svg?color=%230078D7" width="16" height="16" valign="middle" />
-  &nbsp;<b>Tech Enthusiast</b> exploring <b>LLM Agents</b> &amp; <b>Cloud-Native</b>
+  &nbsp;<b>Tech Enthusiast</b> exploring <b>LLM Agent</b> &amp; <b>Agent Infra</b>
 </p>
 
 <br/>
