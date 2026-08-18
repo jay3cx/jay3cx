@@ -4,7 +4,6 @@
     <strong>I'm currently focused on Agentic Infra.</strong>
   </p>
   <p>
-    <code>🎓 SZTU · Shenzhen</code>
     <code>🔭 LLM Agents · Cloud-Native</code>
   </p>
 </div>
@@ -15,9 +14,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://api.iconify.design/feather:book-open.svg?color=%230078D7" width="16" height="16" valign="middle" />
-  &nbsp;<b>SZTU Student</b> at Shenzhen Technology University
-  <br/>
   <img src="https://api.iconify.design/feather:terminal.svg?color=%230078D7" width="16" height="16" valign="middle" />
   &nbsp;<b>Go Agent Developer</b> building intelligent agents with <b>Go</b>
   <br/>
