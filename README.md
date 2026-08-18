@@ -30,7 +30,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=rust,claudeai,chatgpt,googlegemini,grok,mysql,redis,docker,kubernetes,git,linux,go" alt="Tech Stack" />
+  <img src="https://skills.syvixor.com/api/icons?i=rust,mysql,redis,docker,kubernetes,git,linux,go" alt="Tech Stack" />
 </div>
 
 <br/>
